@@ -12,6 +12,7 @@
             <div class="bets_post">
                 <h3><?=$bet->post_title?></h3>
                 <p><?=$bet->post_content?></p>
+                <a href="<?=get_permalink($bet->ID)?>">Перейти</a>
             </div>
             <?php
         }
