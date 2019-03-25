@@ -1,0 +1,1 @@
+console.log('Common script has been loaded');

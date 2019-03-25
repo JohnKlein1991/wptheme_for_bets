@@ -1,0 +1,58 @@
+/*
+Theme Name: Тема для ставок
+Description: Тема для ставок
+Author: Андрей
+Version: 0.0.1
+*/
+body {
+	color: #8f8f8f;
+	font: 12px Tahoma, sans-serif;
+	border-top: 5px solid #7e7e7e;
+	margin: 0;
+}
+
+p {
+	margin: 20px 0;
+}
+
+.wrapper {
+	max-width: 960px;
+	margin: auto;
+}
+
+header {
+	padding: 20px 0;
+}
+
+aside {
+	float: left;
+	width: 250px;
+}
+
+aside + section {
+	margin-left: 280px;
+	padding-bottom: 50px;
+}
+
+footer {
+	clear: both;
+	background: #7e7e7e;
+	color: #dbdbdb;
+	font-size: 11px;
+}
+
+.bets_post{
+	background: bisque;
+	border: #8f8f8f 2px solid;
+	border-radius: 10px;
+}
+.form {
+	background: blanchedalmond;
+	border: #8f8f8f 3px solid;
+	border-radius: 10px;
+}
+.sidebar_rigth{
+	position: fixed;
+	top: 40px;
+	right: 20px;
+}

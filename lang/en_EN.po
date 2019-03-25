@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bets_theme\n"
+"POT-Creation-Date: 2019-03-25 10:12+0300\n"
+"PO-Revision-Date: 2019-03-25 11:16+0300\n"
+"Last-Translator: \n"
+"Language-Team: team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: footer.php:7
+msgid "Футер"
+msgstr "Footer"
+
+#: footer.php:9
+msgid "Нет активных виджетов в футере"
+msgstr "No Active widgets in footer"
+
+#: header.php:10
+msgid "Это хэдер темы"
+msgstr "This is a theme header"
+
+#: index.php:2
+msgid "Это основная часть!"
+msgstr "This is the main part!"
+
+#: page.php:10
+msgid "Форма для добавления ставки"
+msgstr "Form to add a bet"
+
+#: page.php:11
+msgid "Заголовок"
+msgstr "Title"
+
+#: page.php:17
+msgid "Описание"
+msgstr "Description"
+
+#: page.php:23
+msgid "Тип ставки"
+msgstr "Bet Type"
+
+#: page.php:44
+msgid "Добавить"
+msgstr "Add"
+
+#: page.php:51
+msgid "Извините, здесь ничего нет"
+msgstr "Sorry, there's nothing here"
+
+#: sidebar.php:5
+msgid "Боковая колонка"
+msgstr "Sidebar"
+
+#: sidebar.php:7
+msgid "Нет активных виджетов в боковой колонке"
+msgstr "There are no active widgets in right sidebar"
+
+#: single-bets.php:12 single-bets.php:17
+msgid "Отсутствует"
+msgstr "Nothing"
+
+#: single-bets.php:20
+msgid "Информация о ставке"
+msgstr "INformation about the bet"
+
+#: single-bets.php:24
+msgid "Тип ставки:"
+msgstr "Bet Type:"
+
+#: single-bets.php:25
+msgid "Статус ставки: "
+msgstr "Status of the bet "
+
+#: single-bets.php:32 single-bets.php:37
+msgid "Ставка пройдет"
+msgstr "Make bet"
